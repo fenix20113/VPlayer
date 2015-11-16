@@ -1,0 +1,21 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "componentsDirectory": "vendor/",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "~4.2.6",
+    "angular": "~1.4.7"
+  }
+}
